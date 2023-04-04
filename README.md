@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ~$ Whoami :
 
-Computer Science Student At 1337
-Currently learning :
+• Computer Science Student At 1337
+• Currently learning :
               
                
  
