@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student at @1337</h3>
 
 <p align="left"> <a href="https://twitter.com/torettonft" target="blank"><img src="https://img.shields.io/twitter/follow/torettonft?logo=twitter&style=for-the-badge" alt="torettonft" /></a> </p>
 
