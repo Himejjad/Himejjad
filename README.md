@@ -15,3 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/himejjad" alt="himejjad's 42 stats" /></a>
+
+
+
+
+~$ Whoami :
+
+Computer Science Student At 1337
+Currently learning :
+              
+               
+ 
