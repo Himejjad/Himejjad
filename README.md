@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 
 
-
  
 
 <h3 align="left">Student At 1337 (42Network)</h3>
