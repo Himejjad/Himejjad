@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himejjad&show_icons=true&locale=en&layout=compact" alt="himejjad" /></p> -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Himejjad&theme=dark)](https://git.io/streak-stats)
-![himejjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![himejjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=himejjad&hide=contribs,prs)
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himejjad&show_icons=true&locale=en" alt="himejjad" /></p> -->
 
 
