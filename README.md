@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Himejjad&theme=dark)](https://git.io/streak-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himejjad&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himejjad&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=himejjad3&label=Visitors+Count&color=green4)
+![](https://komarev.com/ghpvc/?username=himejjad3&label=Visitors+Count&color=green)
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himejjad&show_icons=true&locale=en" alt="himejjad" /></p> -->
 
 
