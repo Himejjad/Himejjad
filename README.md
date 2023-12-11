@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 
 
-
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
