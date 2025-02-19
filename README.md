@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himejjad&label=Profile%20views&color=0e75b6&style=flat" alt="himejjad" /> </p>
 
 
 
