@@ -84,6 +84,5 @@ I'm a passionate **Software Engineer** with expertise in **DevOps**, **Web3 tech
 
 *Always seeking opportunities to solve complex challenges and contribute to impactful projects*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Himejjad&color=blueviolet&style=flat-square)
 
 </div>
