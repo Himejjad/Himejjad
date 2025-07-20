@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** with expertise in **DevOps**, **Web3 technologies**, and **infrastructure automation**. Currently pursuing my journey at **1337 School** (Level 11.13), I specialize in building scalable systems and optimizing workflows with modern technologies.
+I'm a passionate **Software Engineer** with expertise in **DevOps**, **Web3 technologies**, and **infrastructure automation**. Currently pursuing my journey at **1337 School**, I specialize in building scalable systems and optimizing workflows with modern technologies.
 
 - 🔭 Currently working on **blockchain integration projects** and **containerized web infrastructure**
 - 🌱 Learning advanced **DevOps practices** and **cloud technologies**
@@ -72,11 +72,6 @@ I'm a passionate **Software Engineer** with expertise in **DevOps**, **Web3 tech
 **📚 Baccalaureate** (2020 - 2021)
 - Bachelor of Letters and Human Sciences
 
-## 🌍 Languages
-
-- 🇦🇪 **Arabic**: Native/Fluent
-- 🇬🇧 **English**: Intermediate
-- 🇫🇷 **French**: Intermediate
 
 ## 📫 Let's Connect!
 
