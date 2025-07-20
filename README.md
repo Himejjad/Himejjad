@@ -47,8 +47,8 @@ I'm a passionate **Software Engineer** with expertise in **DevOps**, **Web3 tech
 
 <div align="center">
   
-## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himejjad&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himejjad&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himejjad&layout=compact&theme=radical&langs_count=10&hide_progress=false&card_width=445&exclude_repo=repo1,repo2)
 
 </div>
 
