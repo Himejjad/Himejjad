@@ -52,16 +52,6 @@ I'm a passionate **Software Engineer** with expertise in **DevOps**, **Web3 tech
 
 </div>
 
-## 🎯 Core Competencies
-
-```
-💻 Software Development    ████████████████████ 95%
-🚀 DevOps Engineering     ███████████████████  90%
-⛓️ Web3 Technologies      ████████████████     85%
-☁️ Cloud Infrastructure   ███████████████      80%
-🔧 System Administration  ████████████████████ 95%
-🧠 Problem Solving        ████████████████████ 98%
-```
 
 ## 🎓 Education
 
