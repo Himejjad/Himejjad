@@ -42,37 +42,6 @@ I'm a passionate **Software Engineer** with expertise in **DevOps**, **Web3 tech
 
 </div>
 
-## 💼 Featured Projects
-
-### 🐳 Dockerized Web Infrastructure
-**2024** • **Docker, NGINX, WordPress, MariaDB**
-- Built a complete Docker-based web stack with secure networking and volume management
-- Configured automated deployment pipelines with Docker Compose
-- Implemented container orchestration for scalable web applications
-
-### ⛓️ Blockchain Ethereum Integration
-**2024** • **Solidity, Node.js, Ethereum**
-- Integrated Ethereum blockchain into web applications using Solidity smart contracts
-- Developed secure, tamper-proof data storage solutions
-- Enhanced system transparency with backend blockchain interoperability
-
-### 🌐 Custom HTTP Web Server
-**2023** • **C++, HTTP/1.1**
-- Contributed to lightweight HTTP server development handling GET, POST, and DELETE requests
-- Implemented request parsing, routing, and response generation following HTTP/1.1 standards
-- Optimized performance for concurrent request handling
-
-### 🤖 Linux Automation Scripting
-**2023** • **Bash, C, Linux**
-- Developed comprehensive bash scripts for task automation in Linux environments
-- Created flexible interaction systems for system administration
-- Implemented C-based utilities for enhanced performance
-
-### ☁️ DevOps & System Automation
-**Ongoing** • **CI/CD, GitHub Actions, AWS**
-- Implemented CI/CD pipelines using GitHub Actions for automated build, test, and deployment
-- Containerized and deployed full web stacks using Docker and Docker Compose
-- Experience with AWS cloud infrastructure (EC2, S3) for scalable deployment solutions
 
 ## 📊 GitHub Stats
 
