@@ -48,14 +48,7 @@ I'm a passionate **Software Engineer** with expertise in **DevOps**, **Web3 tech
 <div align="center">
   
 
-<!-- Compact Layout with more languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himejjad&layout=compact&theme=radical&langs_count=12&hide_progress=false)
 
-<!-- Pie Chart Layout -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himejjad&layout=pie&theme=radical&langs_count=10)
-
-<!-- Donut Chart Layout -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himejjad&layout=donut&theme=radical&langs_count=10)
 
 </div>
 
